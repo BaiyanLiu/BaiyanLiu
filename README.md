@@ -1,2 +1,2 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BaiyanLiu&theme=highcontrast&hide_border=false)<br/>
-![](./profile/stats.svg)
+![](./profile/top-langs.svg)
